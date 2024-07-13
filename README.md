@@ -1,4 +1,12 @@
-## Hi there 👋
+## 自己紹介！👋
+
+1-1IT三好湊稀です。
+
+好きなうどん
+ぶっかけうどん☻
+理由 美味いから
+
+皆様に一言 まだまだ未熟者ですが、どうかよろしくお願いします！
 
 <!--
 **Crazy-ontyan/Crazy-ontyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
